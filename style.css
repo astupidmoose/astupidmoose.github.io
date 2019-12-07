@@ -1,0 +1,13 @@
+body { 
+    padding-top: 65px; 
+}
+
+twitter-widget {
+    float:left;
+    padding: 0px 10px;
+    width:auto;
+}
+
+.tweets {
+    display: inline-block;
+}
